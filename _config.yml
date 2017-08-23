@@ -11,7 +11,7 @@ highlighter: rouge
 paginate: 20
 baseurl: /
 domain_name: 'https://blog.ayouch.me'
-google_analytics: 'empty'
+google_analytics: 'UA-105145674-1'
 disqus: true
 disqus_shortname: 'yassineayouch'
 
