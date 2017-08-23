@@ -21,3 +21,4 @@ than the vpn profile method (but also it works only for jailbroken devices)
 BTW i'm not the developer of that package or the owner of that repo it's by @Jakeashacks so if you have more questions feel free
 to ask him!
 (hurry up and do it now while it's signed because once it's revoked it's too late and you can't rescue it)
+BTW this method doesn't work for cydia impactor simply because the free dev certificate that impactor gives you expire on 7days and this method just block the revocation server and the problem with the impactor 7days cert is not revocation they just live 7 days and that's it. (enterprise certs live 365days)
