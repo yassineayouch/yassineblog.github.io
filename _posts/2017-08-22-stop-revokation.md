@@ -11,7 +11,7 @@ and it's cool to be able to jailbreak an idevice without the need of a computer 
 only problem is that apple hate that and they try their best to stop it, so they revoke the used certificate (and sometimes it
 happens often because of some kids reporting the certificate to apple) anyway this not a problem anymore because today we have
 a fix.
-Great,so if you want it to last a year for you just add this repo: http://iapps4u.net/cydia & install a package called 
+Great,so if you want it to last a year for you just add this repo: https://iapps4u.net/cydia & install a package called 
 nomorerevocations and BOOM you fixed this and now you're safe even if apple revoke the certificate next time you'll not be affected
 because basically this package once you install it, it automatically block ocsp.apple.com on the hosts file which mean that your
 device can't connect anymore to apple revocation server and that's why you're safe and the certificate will keep working until

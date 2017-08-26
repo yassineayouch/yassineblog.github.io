@@ -10,13 +10,13 @@ highlighter: rouge
 
 paginate: 20
 baseurl: /
-domain_name: 'https://blog.ayouch.me'
+domain_name: 'httpss://blog.ayouch.me'
 google_analytics: 'UA-105145674-2'
 disqus: true
 disqus_shortname: 'yassineayouch'
 
 # Details for the RSS feed generator
-url:            'https://blog.ayouch.me'
+url:            'httpss://blog.ayouch.me'
 author:         'Yassine Ayouch'
 authorTwitter:  'yassineayouch'
 
