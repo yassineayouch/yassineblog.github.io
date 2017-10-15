@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to stop the jailbreak certificate from getting revoked
-date: 2017-08-22 16:00:00
+title: How to stop the jailbreak certificate from getting revoked (UPDATED)
+date: 2017-10-15 11:00:00
 ---
 
 Hey,
