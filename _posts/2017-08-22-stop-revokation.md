@@ -18,6 +18,13 @@ device can't connect anymore to apple revocation server and that's why you're sa
 it's expiry date like if the revocations didn't happen (pangu used this method on 9.3.3 jailbreak that's why it never stopped 
 working untill the expiry date which mean that it lasted for a full year) and also i want to mention that this method is safer
 than the vpn profile method (but also it works only for jailbroken devices)
+If you are on iOS 7.0-8.4 on 64bit or on 6.0-9.3.5 on 32bit you must do this instead (the 9.2-9.3.3 Pangu jailbreaks does this by default)
+1- Download iFile or Filza from Cydia
+2- Go to /etc and open the hosts file in a text editor
+3- At the end of it add this line:
+127.0.0.1 ocsp.apple.com
+
+4- Save the file.
 BTW i'm not the developer of that package or the owner of that repo it's by @Jakeashacks so if you have more questions feel free
 to ask him!
 (hurry up and do it now while it's signed because once it's revoked it's too late and you can't rescue it)
